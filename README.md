@@ -2,7 +2,18 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+🔭 I’m currently building machine learning-powered applications.
+
+👯 I’m open to collaborating on impactful AI/ML projects, innovative hackathons, and meaningful open-source contributions.
+
+🤝 I’m seeking mentorship and collaboration in advanced machine learning, system design, and scalable application development.
+
+🌱 I’m actively strengthening my foundation in Data Structures & Algorithms, Deep Learning, and production-level deployment practices.
+
+💬 Ask me about Python, Flask, machine learning workflows, and building end-to-end data-driven applications.
+
+⚡ Fun fact: I’m committed to continuous growth and focused on transforming complex ideas into practical, real-world solutions.
 
 
 ## 🌐 Socials:
