@@ -213,8 +213,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
 # 📊 GitHub Activity
 
 <div align="center">
