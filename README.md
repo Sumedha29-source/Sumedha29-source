@@ -215,11 +215,11 @@
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Activity
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sumedha29-source&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumedha29-source&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumedha29-source&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
